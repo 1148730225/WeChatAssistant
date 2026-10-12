@@ -1,0 +1,12 @@
+PyQt5>=5.15.11
+PyQtWebEngine==5.15.7
+pycryptodomex>=3.20
+Pillow>=11.0.0
+zstandard>=0.22.0
+pilk>=0.2.4
+weasyprint>=66.0
+pypdf>=5.4
+
+# Optional offline speech recognition. The app still works without these.
+sherpa-onnx>=1.13.8
+onnxruntime>=1.23.2
