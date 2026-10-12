@@ -1,0 +1,2 @@
+# WeChatAssistant
+微信聊天记录导出工具，支持将微信聊天记录保存至PDF或者HTML格式
